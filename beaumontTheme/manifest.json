@@ -1,0 +1,15 @@
+{
+  "name": "beaumontTheme",
+  "label": "Beaumont Theme",
+  "type": "theme",
+  "thumbnails ": [],
+  "version": "1.8.0",
+  "exbVersion": "1.8.0",
+  "author": "Ridley Soudack",
+  "description": "This is a theme containing customized theme content for the City of Beaumont Urban Forest Hub and Tree Inventory Experiences.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ]
+}
